@@ -1,5 +1,4 @@
 # ITSM
-
 Project Ref: PM-PR-0012 
 
 Business Case: 
@@ -32,9 +31,15 @@ that reassigning and related delay can be reduced.
 misconfiguration of ITSM assets.
 
 Data Set Fields: 
+
 Total of about 46k records from year 2012,2013,2014 
+
 Data needs to be queried from MYSQL data base (Read Only Access) 
+
 host= 18.136.157.135 
+
 user= dm_team 
+
 password= DM!$Team@&27920! 
+
 database= project_itsm 
